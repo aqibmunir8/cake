@@ -13,7 +13,7 @@ Use these prompts in your video and image generators of choice (Midjourney, Flux
 - **Law Compliance:** Law 1 (Vertical motion start), Law 4 (Composed ending in mind), Law 7 (Composed for layout), Law 12 (No text/lettering).
 
 ```text
-Masterpiece culinary photography of a magnificent luxury multi-tiered bespoke celebration cake by Kentiba Bakery London. Flawless ivory ganache finish with sharp modern edges, delicate handcrafted sugar florals in blush and cream, subtle edible 24k gold leaf accents. Resting on dark honed fluted marble pedestal in a warm, moody haute patisserie atelier with soft champagne rim lighting and subtle atmospheric warm haze. Architectural negative space on left and right for editorial text. Ultra photorealistic, 8k resolution, cinematic lighting, no text, no logos, no lettering.
+    Masterpiece culinary photography of a magnificent luxury multi-tiered bespoke celebration cake by Kentiba Bakery London. Flawless ivory ganache finish with sharp modern edges, delicate handcrafted sugar florals in blush and cream, subtle edible 24k gold leaf accents. Resting on dark honed fluted marble pedestal in a warm, moody haute patisserie atelier with soft champagne rim lighting and subtle atmospheric warm haze. Architectural negative space on left and right for editorial text. Ultra photorealistic, 8k resolution, cinematic lighting, no text, no logos, no lettering.
 ```
 
 ---
@@ -74,3 +74,30 @@ Vertical 9:16 culinary motion still, luscious burgundy fruit mirror glaze cascad
 ### Reel 3: Handcrafted Sugar Florals
 ```text
 Vertical 9:16 macro artisan photography, delicate hands placing a handcrafted sugar peony with gossamer-thin blush petals and golden stamen onto an ivory buttercream wedding tier, soft bokeh bakery background, no text.
+```
+
+---
+
+## 5. Supplementary Asset Prompts (For Brand Expansions)
+
+### Missing Asset 1: Artisan Baker at Work in London Studio
+- **Aspect Ratio:** 4:3 or 16:9
+- **Use Case:** "About the Baker" / Studio Story section
+```text
+Cinematic culinary portrait of an artisan pastry chef in a dark charcoal linen apron working in a warm London bakery atelier. Hands in black nitrile gloves delicately piping fine ganache details onto a celebration cake on a cast iron turntable. Soft moody daylight pouring through large loft windows, dusted flour on fluted marble, vintage copper cookware in warm bokeh background. 8k resolution, authentic editorial style, no text, no logos.
+```
+
+### Missing Asset 2: Seasonal Gifting Box & Dessert Pastries
+- **Aspect Ratio:** 4:3 or 1:1
+- **Use Case:** Seasonal London Dessert Drops & Gifting
+```text
+Overhead luxury food photography of an open matte black and gold-embossed artisan pastry box. Inside are six exquisite French entremet petit fours and jewel-like macarons in pistachio, salted caramel, and raspberry flavours with edible gold foil. Resting on a dark rustic oak bakery table, warm atmospheric ambient glow, ultra-realistic, no text.
+```
+
+### Missing Asset 3: Cross-Section Crumb & Filling Macro
+- **Aspect Ratio:** 1:1 or 4:3
+- **Use Case:** Flavour Anatomy & "Cake Confidence" proof
+```text
+Macro culinary cross-section photograph of a slice of tall artisan layer cake resting on a vintage porcelain plate. Crisp contrast between light golden vanilla sponge with tender open crumb, layered with roasted macadamia nut praline and rich golden salted caramel drizzle, coated in a flawless 4mm shell of dark chocolate ganache. Micro depth of field, warm morning light, photorealistic, no text.
+```
+
